@@ -1,0 +1,71 @@
+.video-js .customOverlay {
+    color: white;
+    background-color: #00ffff;
+    text-align: center;
+    font-size: x-large;
+}
+
+.video-js .customOverlayNend1 {
+    position: absolute;
+    background-color: transparent;
+    top: 100px;
+    left: 0px;
+}
+.video-js .customOverlayNend2 {
+    position: absolute;
+    background-color: transparent;
+    top: 150px;
+    left: 50px;
+}
+.video-js .customOverlayNend3 {
+    position: absolute;
+    background-color: transparent;
+    top: 200px;
+    left: 100px;
+}
+.video-js .customOverlayNend4 {
+    position: absolute;
+    background-color: transparent;
+    top: 150px;
+    left: 150px;
+}
+.video-js .customOverlayNend5 {
+    position: absolute;
+    background-color: transparent;
+    top: 100px;
+    left: 200px;
+}
+.video-js .customOverlayNend6 {
+    position: absolute;
+    background-color: transparent;
+    top: 150px;
+    left: 250px;
+}
+.video-js .customOverlayNend7 {
+    position: absolute;
+    background-color: transparent;
+    top: 200px;
+    left: 300px;
+}
+.video-js .customOverlayNend8 {
+    position: absolute;
+    background-color: transparent;
+    top: 150px;
+    left: 350px;
+}
+.video-js .customOverlayNend9 {
+    position: absolute;
+    background-color: transparent;
+    top: 100px;
+    left: 400px;
+}
+.video-js .customOverlayNend10 {
+    position: absolute;
+    background-color: transparent;
+    top: 150px;
+    left: 450px;
+}
+
+.video-js .tip{
+    width: 50px;
+}
